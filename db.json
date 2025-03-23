@@ -4,7 +4,7 @@
       "id": 1,
       "name": "MAZDA CX-60",
       "price": "1 706 600",
-      "imgUrl": "images/thumb_262762_dc_site_small.webp",
+      "imgUrl": "/images/thumb_262762_dc_site_small.webp",
       "article": "12123",
       "colors": [
         "red"
@@ -14,7 +14,7 @@
       "id": 2,
       "name": "MAZDA CX-90",
       "price": "2 498 400",
-      "imgUrl": "images/thumb_309193_dc_site_small.webp",
+      "imgUrl": "/images/thumb_309193_dc_site_small.webp",
       "article": "12124",
       "colors": [
         "maroon",
@@ -25,7 +25,7 @@
       "id": 3,
       "name": "MAZDA CX-30",
       "price": "1 090 800",
-      "imgUrl": "images/thumb_43089_dc_site_small.webp",
+      "imgUrl": "/images/thumb_43089_dc_site_small.webp",
       "article": "12125",
       "colors": [
         "darkgray"
@@ -35,7 +35,7 @@
       "id": 4,
       "name": "MAZDA CX-5",
       "price": "1 119 000",
-      "imgUrl": "images/thumb_43087_dc_site_small.webp",
+      "imgUrl": "/images/thumb_43087_dc_site_small.webp",
       "article": "12126",
       "colors": [
         "red",
@@ -46,7 +46,7 @@
       "id": 5,
       "name": "MAZDA CX-9",
       "price": "1 659 500",
-      "imgUrl": "images/thumb_43088_dc_site_small.webp",
+      "imgUrl": "/images/thumb_43088_dc_site_small.webp",
       "article": "12127",
       "colors": [
         "silver"
@@ -56,7 +56,7 @@
       "id": 6,
       "name": "MAZDA MX-5",
       "price": "1 622 600",
-      "imgUrl": "images/thumb_37035_dc_site_small.webp",
+      "imgUrl": "/images/thumb_37035_dc_site_small.webp",
       "article": "12128",
       "colors": [
         "grey"
@@ -66,7 +66,7 @@
       "id": 7,
       "name": "Mazda CX-60",
       "price": "2 322 000",
-      "imgUrl": "images/MazdaCX-60.jpg",
+      "imgUrl": "/images/MazdaCX-60.jpg",
       "article": "12129",
       "colors": [
         "lightgrey",
@@ -78,7 +78,7 @@
       "id": 8,
       "name": "Mazda 6",
       "price": "850 000",
-      "imgUrl": "images/mazda6.jpeg",
+      "imgUrl": "/images/mazda6.jpeg",
       "article": "12129",
       "colors": [
         "lightblue",
@@ -92,7 +92,7 @@
       "id": 9,
       "name": "Mazda 3",
       "price": "599 000",
-      "imgUrl": "images/Mazda3.png",
+      "imgUrl": "/images/Mazda3.png",
       "article": "12130",
       "colors": [
         "silver",
@@ -104,7 +104,7 @@
       "id": 10,
       "name": "Mazda CX-7",
       "price": "430 000",
-      "imgUrl": "images/mazdacx7.jpg",
+      "imgUrl": "/images/mazdacx7.jpg",
       "article": "12131",
       "colors": [
         "blue"
