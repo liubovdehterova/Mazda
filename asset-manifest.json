@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mazda/static/css/main.e198d599.css",
-    "main.js": "/Mazda/static/js/main.ba4c03b5.js",
+    "main.js": "/Mazda/static/js/main.6077f4fc.js",
     "static/media/logo.png": "/Mazda/static/media/logo.97a72290be4660d5c20e.png",
     "static/media/cross-svgrepo-com.svg": "/Mazda/static/media/cross-svgrepo-com.7fa273a56ac69800e1c380c5adceb116.svg",
     "index.html": "/Mazda/index.html",
     "main.e198d599.css.map": "/Mazda/static/css/main.e198d599.css.map",
-    "main.ba4c03b5.js.map": "/Mazda/static/js/main.ba4c03b5.js.map"
+    "main.6077f4fc.js.map": "/Mazda/static/js/main.6077f4fc.js.map"
   },
   "entrypoints": [
     "static/css/main.e198d599.css",
-    "static/js/main.ba4c03b5.js"
+    "static/js/main.6077f4fc.js"
   ]
 }
